@@ -8,6 +8,7 @@ On iPhone: The carrier text is removed, 5 bars of cellular signal and full WiFi 
 On iPad: The carrier text is set to "iPad" and full WiFi bars are displayed.
 ```
 
+* https://github.com/rolfbjarne/embedded-frameworks
 * https://github.com/shinydevelopment/SimulatorStatusMagic
 * https://github.com/Imperiopolis/WatchScreenshotMagic
 

@@ -19,5 +19,6 @@ The battery is full and shows full battery icon.
 The WiFi connectivity icon is shown and at full strength.
 ```
 
+* https://developer.android.com/studio/command-line/shell.html
 * https://stanfy.com/blog/android-shell-part-1-mocking-battery-status/
 * https://play.google.com/store/apps/details?id=com.daystrom.fbattery&hl=en
